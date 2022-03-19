@@ -1,13 +1,22 @@
 # FFXI-Vision
 Map file overhaul for FFXI
 
+NOTE: As of 2021-Dec, if you use these map .dat files on a current, updated client 
+    version, you might experience a client crash when maximizing the chat window. 
+    YMMV.
+
 There are two methods to install these modified maps into your FFXI client.
 
-Copy and Paste the ROM## folders directly into the ./FINAL FANTASY XI/ folder,
+- XIPivot is a dat replacement plugin available for both Windower and Ashita which 
+    allows a user to dynamically replace `.dat` files with custom versions.
+    I advise searching for the plugin and following the setup guide.
+    This is now the preferred method for using custom `.dat` files of any type.
+
+- Copy and Paste the ROM## folders directly into the `./FINAL FANTASY XI/` folder,
     replacing all files when prompted. This will OVERWRITE all the game dats
     with the updated map files.
 
-Alternatively, if you use the Ashita launcher, you can install the "Dats" Plugin
+DEPRECATED: Alternatively, if you use the Ashita launcher, you can install the "Dats" Plugin
     and use that Plugin to trick the FFXI client to thinking these .dat files
     are located in the ./FINAL FANTASY XI/ folder without actually replacing
     any game files.
