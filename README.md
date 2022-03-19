@@ -1,9 +1,9 @@
 # FFXI-Vision
 Map file overhaul for FFXI
 
-NOTE: As of 2021-Dec, if you use these map .dat files on a current, updated client 
-    version, you might experience a client crash when maximizing the chat window. 
-    YMMV.
+NOTE: As of 2021-Dec, if you use the map replacement `/ROM/119/*.dat` files on a 
+    current, updated client version, you might experience a client crash when 
+    maximizing the chat window. I cannot verify this bug, so YMMV.
 
 There are two methods to install these modified maps into your FFXI client.
 
